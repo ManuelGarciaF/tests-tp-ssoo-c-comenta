@@ -1,5 +1,5 @@
 # Tests tp Sistemas Operativos 1c-2024 "C - Comenta"
-Scripts de python para usar como entrada para el proceso de kernel como prueba automatizada
+Scripts de python para usar como entrada al proceso de kernel como prueba automatizada
 
 ## Uso
 
