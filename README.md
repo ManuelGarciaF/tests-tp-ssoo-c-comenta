@@ -1,4 +1,4 @@
-# Tests tp ssoo c-comenta
+# Tests tp Sistemas Operativos 1c-2024 "C - Comenta"
 Scripts de python para pipear al proceso de kernel como prueba automatizada
 
 ## Uso
